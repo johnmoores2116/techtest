@@ -57,9 +57,9 @@ methods.
  
 org.jsoup (https://jsoup.org/)
 ------------------------------
-This used is a Java library for working with HTML. It provides a convenient API for extracting and manipulating
+This is a Java library for working with HTML. It provides a convenient API for extracting and manipulating
 data, using DOM, CSS, and jquery-like methods. It used to query the HTML on the webpage(s) to find the webpage
-components needed to provide teh required information in the JSON output.
+components needed to provide the required information in the JSON output.
 
 org.junit (http://junit.org/junit4/)
 ------------------------------------
